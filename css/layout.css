@@ -38,7 +38,7 @@
 }
 
 .single-column-left{
-
+  box-sizing: border-box;
   width: 32%;
   display: block;
   float: left;
@@ -48,7 +48,7 @@
 
 
 .single-column-right{
-
+  box-sizing: border-box;
   width: 32.33%;
   display: block;
   float: right;
