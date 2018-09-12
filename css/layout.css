@@ -38,12 +38,16 @@
 }
 
 .single-column-left{
-    float: right;
+    float: left;
   width: 30.33%;
   display: block;
 }
 
-
+.single-column-center{
+    float: center;
+  width: 30.33%;
+  display: block;
+}
 
 
 
