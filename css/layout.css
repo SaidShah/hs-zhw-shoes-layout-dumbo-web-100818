@@ -38,19 +38,19 @@
 }
 
 .single-column-left{
-    float: left;
+ 
   width: 30.33%;
   display: block;
 }
 
 .single-column-center{
-    float: middle;
+  
   width: 30.33%;
   display: block;
 }
 
 .single-column-right{
-  float: right;
+ 
   width: 30.33%;
   display: block;
 }
