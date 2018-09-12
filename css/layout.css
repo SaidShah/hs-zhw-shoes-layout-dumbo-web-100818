@@ -70,7 +70,13 @@
   padding-right: 10px;
 }
 
-
+.img-cont-right{
+  box-sizing: border-box;
+  float: left;
+  width: 33.33%;
+  margin-top: 15px;
+  padding-right: 10px;
+}
 
 
 
