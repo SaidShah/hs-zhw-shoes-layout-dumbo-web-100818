@@ -27,8 +27,10 @@
 .double-column{
   float: left;
   width: 66.66%;
+  display: block;
 }
 .single-column{
   float: left;
   width: 33.33%;
+  display: block;
 }
