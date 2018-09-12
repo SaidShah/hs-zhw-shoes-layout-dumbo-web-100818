@@ -38,6 +38,9 @@
 }
 
 .single-column-each{
+  float: left;
+  width: 32.33%;
+  display: block;
   
 }
 
