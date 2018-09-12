@@ -46,3 +46,11 @@
   margin-top: 20px;
 }
 
+
+.single-column-right{
+
+  width: 32%;
+  display: block;
+  float: left;
+
+}
