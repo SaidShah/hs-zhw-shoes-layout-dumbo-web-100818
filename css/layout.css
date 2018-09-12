@@ -45,16 +45,4 @@
   margin-right: 20px;
   margin-top: 20px;
 }
-.single-column-right{
 
-  width: 33%;
-  display: block;
-  float: right;
-}
-
-.single-column-center{
- float: left;
-  width: 33%;
-  display: block;
-
-}
