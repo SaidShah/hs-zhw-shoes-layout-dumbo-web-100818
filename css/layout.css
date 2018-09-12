@@ -38,18 +38,21 @@
 }
 
 .single-column-left{
- 
+  box-sizing: border-box;
+  clear: none;
   width: 30.33%;
   display: block;
 }
 
 .single-column-center{
+  box-sizing: border-box;
   clear: none;
   width: 30.33%;
   display: block;
 }
 
 .single-column-right{
+  box-sizing: border-box;
   clear: none;
   width: 30.33%;
   display: block;
