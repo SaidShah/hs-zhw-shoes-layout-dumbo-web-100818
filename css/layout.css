@@ -74,6 +74,7 @@
 }
 
 div #right-cont{
+  float: right;
   margin-right: 0px;
   margin-left: 5px;
 }
