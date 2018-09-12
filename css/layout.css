@@ -63,6 +63,7 @@
 }
 
 .img-cont-table{
+  box-sizing: border-box;
   float: left;
   width: 33.33%;
   margin-top: 15px;
