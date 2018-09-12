@@ -67,7 +67,7 @@
   float: left;
   width: 33.33%;
   margin-top: 15px;
-
+  padding-right: 10px;
 }
 
 .img-cont-table{
@@ -75,7 +75,7 @@
   float: right;
   width: 33.33%;
   margin-top: 15px;
-
+  padding-left: 10px;
 }
 
 
