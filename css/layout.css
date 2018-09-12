@@ -39,20 +39,20 @@
 
 .single-column-left{
 
-  width: 30.33%;
+  width: 33%;
   display: block;
   float: left;
 }
 .single-column-right{
 
-  width: 30.33%;
+  width: 33%;
   display: block;
   float: left;
 }
 
 .single-column-center{
  float: left;
-  width: 30.33%;
+  width: 33%;
   display: block;
 
 }
