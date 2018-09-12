@@ -84,7 +84,10 @@ col-2{
   width: 32%;
 }
 
-
+row {
+  clear: both;
+  margin-bottom: 2%;
+}
 
 
 
