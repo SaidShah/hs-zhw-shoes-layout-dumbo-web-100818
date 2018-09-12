@@ -67,7 +67,7 @@
   float: left;
   width: 33%;
   margin-top: 15px;
-  padding-right: 5px;
+  padding-right: 10px;
 }
 
 .img-cont-right{
@@ -75,7 +75,7 @@
   float: left;
   width: 33%;
   margin-top: 15px;
-  padding-left: 5px;
+  padding-left: 10px;
 }
 
 .img-cont-center{
