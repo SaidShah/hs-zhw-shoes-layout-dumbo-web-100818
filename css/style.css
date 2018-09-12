@@ -64,10 +64,7 @@ th, td {
   border-bottom: 1px solid #ccc;
 }
 
-th {
-  background: #555;
-  color: white;
-}
+
 
 input, textarea {
   display: block;
