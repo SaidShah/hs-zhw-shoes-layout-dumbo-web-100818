@@ -24,7 +24,11 @@
 
 /* Posititoning Classes */
 
-.column-2-wide{
+.double-column{
+  float: left;
+  width: 66.66%;
+}
+.single-column{
   float: left;
   width: 66.66%;
 }
