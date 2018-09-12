@@ -55,13 +55,6 @@
   margin-top: 15px;
 }
 
-.img-cont{
-  display: table;
-  box-sizing: border-box;
-  float: left;
-  width: 33.33%;
-}
-
 .img-cont-left{
   box-sizing: border-box;
   float: left;
