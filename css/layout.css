@@ -70,7 +70,7 @@
 
 #left-cont{
   margin-left: 0px;
-
+ float: left;
 }
 
 div #right-cont{
