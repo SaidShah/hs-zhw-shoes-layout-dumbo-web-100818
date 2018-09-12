@@ -70,13 +70,13 @@
 }
 
 #left-cont{
-  margin-left: 0px;
+  padding-left: 0px;
   float: left;
 }
 
  #right-cont{
   float: right;
-  margin-right: 0px;
+  padding-right: 0px;
 
 }
 
