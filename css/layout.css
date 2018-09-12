@@ -41,7 +41,7 @@
 
   width: 32%;
   display: block;
-
+  float: left;
   margin: 20px;
 }
 
