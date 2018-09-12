@@ -49,7 +49,11 @@
   display: block;
 }
 
-
+.single-column-right{
+    float: right;
+  width: 30.33%;
+  display: block;
+}
 
 
 
