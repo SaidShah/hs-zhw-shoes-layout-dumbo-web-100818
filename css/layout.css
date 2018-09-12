@@ -38,5 +38,14 @@
 }
 
 .single-column-3-wide{
-  
+    float: left;
+  width: 32.33%;
+  display: block;
 }
+
+
+
+
+
+
+
