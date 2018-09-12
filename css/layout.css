@@ -80,11 +80,11 @@
 }
 
 
-col-2{
+.col-2{
   width: 32%;
 }
 
-row {
+.row {
   clear: both;
   margin-bottom: 2%;
 }
