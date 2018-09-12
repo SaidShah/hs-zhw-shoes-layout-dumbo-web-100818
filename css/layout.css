@@ -50,9 +50,9 @@
   float: right;
 }
 
-.single-column-right{
+.single-column-center{
   clear: none;
   width: 31.33%;
   display: block;
-  float: right;
+  float: none;
 }
