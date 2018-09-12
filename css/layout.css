@@ -65,7 +65,7 @@
 .img-cont-left{
   box-sizing: border-box;
   float: left;
-  width: 33%;
+  width: 33.33%;
   margin-top: 15px;
   padding-right: 15px;
 }
@@ -73,7 +73,7 @@
 .img-cont-right{
   box-sizing: border-box;
   float: left;
-  width: 33%;
+  width: 33.33%;
   margin-top: 15px;
   padding-left: 15px;
 }
@@ -81,7 +81,7 @@
 .img-cont-center{
   box-sizing: border-box;
   float: left;
-  width: 33%;
+  width: 33.33%;
   margin-top: 15px;
   padding-left: 5px;
    padding-right: 5px;
