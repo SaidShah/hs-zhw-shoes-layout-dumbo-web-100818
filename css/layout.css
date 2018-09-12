@@ -69,13 +69,13 @@
 }
 
 #left-cont{
-  padding-left: 0px;
 
+  float: left;
 }
 
  #right-cont{
+  float: right;
 
-  padding-right: 0px;
 
 }
 
