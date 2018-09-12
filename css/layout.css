@@ -60,7 +60,13 @@
    padding-right: 5px;
 }
 
+.img-cont{
+  float: left;
+  width: 33%;
+  margin-top: 15px;
+  padding: 15px;
 
+}
 
 
 
