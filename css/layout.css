@@ -50,4 +50,9 @@
   float: right;
 }
 
-
+.single-column-right{
+  clear: none;
+  width: 31.33%;
+  display: block;
+  float: right;
+}
