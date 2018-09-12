@@ -70,10 +70,12 @@
 
 #left-cont{
   margin-left: 0px;
+  margin-right: 5px;
 }
 
 div #right-cont{
   margin-right: 0px;
+  margin-left: 5px;
 }
 
 
