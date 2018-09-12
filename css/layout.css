@@ -61,8 +61,7 @@
 }
 
 .img-cont{
-  clear:both;
-  float: right;
+  float: left;
   width: 32%;
   margin-top: 15px;
   margin-right: 5px;
